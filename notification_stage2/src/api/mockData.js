@@ -1,8 +1,12 @@
 export const mockNotifications = [
-  { ID: "d146095a-0d86-4a34-9e69-3900a14576bc", Type: "Result", Message: "mid-sem results are out", Timestamp: "2026-04-22 17:51:30" },
-  { ID: "b283218f-ea5a-4b7c-93a9-1f2f240d64b0", Type: "Placement", Message: "CSX Corporation hiring for SDE role", Timestamp: "2026-04-22 17:51:18" },
-  { ID: "81589ada-0ad3-4f77-9554-f52fb558e09d", Type: "Event", Message: "College farewell party next week", Timestamp: "2026-04-22 17:51:06" },
-  { ID: "0005513a-142b-4bbc-8678-eefec65e1ede", Type: "Result", Message: "End-sem results declared", Timestamp: "2026-04-22 17:50:54" },
-  { ID: "a234513a-142b-4bbc-8678-eefec65e1ede", Type: "Placement", Message: "Google campus placement round 1", Timestamp: "2026-04-23 10:00:00" },
-  { ID: "b456513a-142b-4bbc-8678-eefec65e1ede", Type: "Event", Message: "Tech symposium 2026", Timestamp: "2026-04-24 09:30:00" }
+  { "ID": "d146095a-0d86-4a34-9e69-3900a14576bc", "Type": "Result", "Message": "mid-sem", "Timestamp": "2026-04-22 17:51:30" },
+  { "ID": "b283218f-ea5a-4b7c-93a9-1f2f240d64b0", "Type": "Placement", "Message": "CSX Corporation hiring", "Timestamp": "2026-04-22 17:51:18" },
+  { "ID": "81589ada-0ad3-4f77-9554-f52fb558e09d", "Type": "Event", "Message": "farewell", "Timestamp": "2026-04-22 17:51:06" },
+  { "ID": "0005513a-142b-4bbc-8678-eefec65e1ede", "Type": "Result", "Message": "mid-sem", "Timestamp": "2026-04-22 17:50:54" },
+  { "ID": "ea836726-c25e-4f21-a72f-544a6af8a37f", "Type": "Result", "Message": "project-review", "Timestamp": "2026-04-22 17:50:42" },
+  { "ID": "003cb427-8fc6-47f7-bb00-be228f6b0d2c", "Type": "Result", "Message": "external", "Timestamp": "2026-04-22 17:50:30" },
+  { "ID": "e5c4ff20-31bf-4d40-8f02-72fda59e8918", "Type": "Result", "Message": "project-review", "Timestamp": "2026-04-22 17:50:18" },
+  { "ID": "1cfce5ee-ad37-4894-8946-d707627176a5", "Type": "Event", "Message": "tech-fest", "Timestamp": "2026-04-22 17:50:06" },
+  { "ID": "cf2885a6-45ac-4ba0-b548-6e9e9d4c52c8", "Type": "Result", "Message": "project-review", "Timestamp": "2026-04-22 17:49:54" },
+  { "ID": "8a7412bd-6065-4d09-8501-a37f11cc848b", "Type": "Placement", "Message": "Advanced Micro Devices Inc. hiring", "Timestamp": "2026-04-22 17:49:42" }
 ];
